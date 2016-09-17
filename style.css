@@ -409,6 +409,7 @@ body{
 }
 .section4 .demo a img{
     width: 100%;
+    height:150px;
     transition:.2s linear;
 }
 .section4 .demo a h3{
